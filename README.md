@@ -1,6 +1,9 @@
 # QSTP-ML
 A repository for the Machine Learning QSTP course. Look for assignments and downloads here!
 
+## Submission
+Submit your assignments on this google drive link: https://tinyurl.com/qstp-ml-2018
+
 ## Resources
 "Machine Learning" by Stanford on Coursera: https://www.coursera.org/learn/machine-learning
 
